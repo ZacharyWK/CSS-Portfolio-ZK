@@ -27,5 +27,12 @@ Nav bars react on hover and contact options open from a drop down list.
 
 
 ## Links
-* [REPOSITORY](https://github.com/ZacharyWK/CSS-Portfolio-ZK)
-* [DEPLOYED](https://zacharywk.github.io/CSS-Portfolio-ZK/)
+[REPOSITORY](https://github.com/ZacharyWK/CSS-Portfolio-ZK)
+```
+https://github.com/ZacharyWK/CSS-Portfolio-ZK
+```
+
+[DEPLOYED](https://zacharywk.github.io/CSS-Portfolio-ZK/)
+```
+https://zacharywk.github.io/CSS-Portfolio-ZK/
+```
