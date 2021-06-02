@@ -19,6 +19,7 @@ header, footer { background-color: var(--iron);}
     padding-left: 10%;
     padding-right: 10%;
     font-size: 1.75rem;
+    
 }
 nav ul ls:hover {
     text-decoration: underline 15%;
